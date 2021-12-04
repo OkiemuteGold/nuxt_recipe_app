@@ -26,7 +26,7 @@ a {
 .recipe {
     box-sizing: border-box;
     width: 280px;
-    padding: 8px;
+    padding: 8px 8px 12px;
     margin: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -38,5 +38,13 @@ a {
     background-size: cover;
     width: 100%;
     height: 200px;
+}
+
+h1 {
+    margin-top: 5px;
+}
+
+p {
+    margin-bottom: 0;
 }
 </style>

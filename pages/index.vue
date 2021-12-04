@@ -1,7 +1,7 @@
 <template>
     <section class="container">
-        <h1 class="title">Recipes</h1>
-        <h2 class="subtitle">My recipe book app</h2>
+        <h1 class="uppercase">Recipes</h1>
+        <h2 class="capitalize">Home page of recipe book app</h2>
         <div class="links"></div>
     </section>
 </template>
@@ -11,8 +11,11 @@ export default {};
 </script>
 
 <style scoped>
-img {
-    max-width: 100%;
-    height: auto;
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-weight: 400;
 }
 </style>

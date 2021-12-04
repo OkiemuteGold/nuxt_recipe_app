@@ -72,4 +72,8 @@ export default {
     background-size: 65%;
     background-repeat: no-repeat;
 }
+
+p {
+    margin-top: 20px;
+}
 </style>
