@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'recipee_app',
+    title: 'recipe_app',
     htmlAttrs: {
       lang: 'en'
     },

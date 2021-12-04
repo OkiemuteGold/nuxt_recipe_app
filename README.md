@@ -1,4 +1,4 @@
-# recipee_app
+# recipe_app
 
 ## Build Setup
 
